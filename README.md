@@ -1,2 +1,7 @@
-# User_Profile_Card_05-06-23
-Learn How to Create an Eye-Catching Light and Dark Mode User Profile Card with HTML and CSS
+# Create a Responsive User Profile Card with HTML, CSS, and JavaScript
+
+Learn how to create a responsive user profile card with toggleable dark and light modes using HTML, CSS, and JavaScript. Perfect for modern web designs!
+
+💙 Join the channel to see more videos like this. [CodingGujarat](https://www.youtube.com/@CodingGujarat)
+
+![preview img](/preview.png)
